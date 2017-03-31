@@ -22,7 +22,7 @@ Hoe.spec "bmp" do
   self.version              = BMP::VERSION
   self.summary              = 'Bitmap generator (bitmap as in BMP image, not bitmap bitset)'
   self.description          = self.summary
-  self.urls                 = ['https://github.com/bordeeinc/bmp']
+  self.urls                 = ['https://github.com/bordeeinc/bmp-ruby']
   self.testlib              = :minitest
   self.readme_file          = 'README.md'
   self.history_file         = 'History.txt'

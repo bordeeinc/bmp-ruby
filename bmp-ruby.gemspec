@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
-# stub: bmp-ruby 0.1.0 ruby lib
+# stub: bmp-ruby 0.1.1 ruby lib
 
 Gem::Specification.new do |s|
   s.name = "bmp-ruby"
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.executables = ["bmp"]
   s.extra_rdoc_files = ["History.txt", "Manifest.txt", "README.md", "History.txt"]
   s.files = [".autotest", ".gitignore", ".hoeignore", "Gemfile", "History.txt", "LICENSE", "Manifest.txt", "README.md", "Rakefile", "bin/bmp", "lib/bmp.rb", "lib/bmp/obj.rb", "lib/bmp/utils.rb", "lib/bmp/version.rb", "lib/core_ext/array/extract_options.rb", "lib/tasks/bmp.rake", "test/files/input/YVES-framework-opaque-16.png", "test/files/input/YVES-framework-opaque-256.png", "test/files/input/YVES-framework-transparent-16.png", "test/files/input/YVES-framework-transparent-256.png", "test/files/output/.keep", "test/test_bmp.rb"]
-  s.homepage = "https://github.com/bordeeinc/bmp"
+  s.homepage = "https://github.com/bordeeinc/bmp-ruby"
   s.licenses = ["MIT"]
   s.rdoc_options = ["--title", "bmp-ruby", "--markup", "markdown", "--quiet"]
   s.required_ruby_version = Gem::Requirement.new(">= 1.9.2")
