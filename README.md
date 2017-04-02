@@ -1,6 +1,8 @@
 # BMP
 
-  Bitmap generator (bitmap as in BMP image, not bitmap bitset)
+Bitmap generator (bitmap as in BMP image, not bitmap bitset)
+  
+[![Gem Version](https://badge.fury.io/rb/bmp-ruby.svg)](https://badge.fury.io/rb/bmp-ruby)
 
 ## Usage
 
